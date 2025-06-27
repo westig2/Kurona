@@ -1,5 +1,1 @@
-Kurōna es una aplicación desarrollada para mejorar la gestión y productividad en el sector cafetalero, brindando soluciones digitales accesibles y adaptadas a las necesidades reales de los productores de café. La plataforma está diseñada para facilitar el registro, monitoreo y análisis de la producción, ofreciendo una experiencia tecnológica sencilla, eficiente y personalizable.
-
-Inspirada en los principios de accesibilidad e inclusión, Kurōna busca cerrar la brecha digital en zonas rurales, permitiendo a los agricultores interactuar con herramientas modernas sin barreras tecnológicas. Su interfaz responsiva y amigable está optimizada para dispositivos móviles y zonas con conectividad limitada.
-
-La misión de Kurōna es empoderar a los caficultores peruanos mediante tecnología local, promoviendo prácticas sostenibles, mejor toma de decisiones y mayor trazabilidad en la cadena productiva. Gracias a su enfoque centrado en el usuario y su capacidad de adaptación, Kurōna se posiciona como una herramienta clave en la transformación digital del agro.
+#kurona
